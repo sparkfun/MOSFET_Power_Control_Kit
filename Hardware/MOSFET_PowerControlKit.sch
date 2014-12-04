@@ -8276,7 +8276,7 @@ for the logo on the board is tSilk.</description>
 </classes>
 <parts>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
-<part name="Q1" library="SparkFun" deviceset="MOSFET-NCHANNEL" device="PTH2" value="IRF"/>
+<part name="Q1" library="SparkFun" deviceset="MOSFET-NCHANNEL" device="PTH2" value="RFP30N6LE"/>
 <part name="R1" library="SparkFun" deviceset="RESISTOR" device="PTH1" value="10K"/>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND5" library="SparkFun" deviceset="GND" device=""/>
@@ -8304,6 +8304,7 @@ for the logo on the board is tSilk.</description>
 <text x="170.942" y="11.176" size="2.54" layer="94">N. Seidle</text>
 <text x="148.844" y="6.858" size="2.54" layer="94">Revised by: Patrick Alberts</text>
 <text x="238.76" y="7.62" size="1.778" layer="94">V11</text>
+<text x="106.68" y="93.98" size="1.778" layer="95">Mosfet rated to handle 30A/60V</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
