@@ -8304,7 +8304,8 @@ for the logo on the board is tSilk.</description>
 <text x="170.942" y="11.176" size="2.54" layer="94">N. Seidle</text>
 <text x="148.844" y="6.858" size="2.54" layer="94">Revised by: Patrick Alberts</text>
 <text x="238.76" y="7.62" size="1.778" layer="94">V11</text>
-<text x="106.68" y="93.98" size="1.778" layer="95">Mosfet rated to handle 30A/60V</text>
+<text x="149.86" y="43.18" size="1.778" layer="95">Mosfet rated to handle 60V/30A</text>
+<text x="149.86" y="38.1" size="1.778" layer="95">PCB trace thickness allowes for 3.5A</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

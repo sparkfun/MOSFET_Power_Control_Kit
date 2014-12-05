@@ -54,9 +54,9 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -160,7 +160,6 @@
 <text x="19.939" y="8.001" size="1.778" layer="21" font="vector" ratio="15" rot="R90">-</text>
 <text x="19.685" y="0.762" size="1.778" layer="22" font="vector" ratio="15" rot="MR0">+</text>
 <text x="18.415" y="0.762" size="1.778" layer="21" font="vector" ratio="15">+</text>
-<text x="0" y="-5.08" size="1.27" layer="51" font="vector" ratio="10">Maximum Current is 30A</text>
 </plain>
 <libraries>
 <library name="SparkFun">
