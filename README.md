@@ -2,6 +2,7 @@ SparkFun MOSFET Power Control Kit
 ===================================
 
 ![SparkFun MOSFET Power Control Kit](https://cdn.sparkfun.com//assets/parts/9/8/9/2/12959-01.jpg)
+
 [*SparkFun MOSFET Power Control Kit (COM-12959)*](https://www.sparkfun.com/products/12959)
 
 This is the SparkFun MOSFET Power Control Kit, a breakout PTH soldering kit for for the RFP30N06LE N-Channel MOSFET.
